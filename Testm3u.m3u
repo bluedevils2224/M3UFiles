@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN" tvg-logo="" group-title="US Sports",US: ESPN
-#EXTGRP:US Sports
 https://dumdumbullet.com/1012085951/qvEzjTLblW/900001163456
 #EXTINF:-1 tvg-id="tnt.us" tvg-name="US: TNT" tvg-logo="" group-title="USA Premium",US: TNT
 #EXTGRP:USA Premium
